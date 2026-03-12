@@ -1,4 +1,4 @@
-Examples of C# code demonstrating
+Examples of C# code
 - Clean Code
 - Domain-Driven Design
 - SOLID Principles
